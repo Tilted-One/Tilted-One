@@ -5,6 +5,7 @@
 
 #🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="left">
+<div style="background-color: white; padding: 10px; border: 1px solid #ccc;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://camo.githubusercontent.com/e39dd3b8f4afd6976f4978888b37cdaf52b825afb08eb36c99d92e2e63562553/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" alt="figma" width="45" height="45"/>
 <img src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="HTML" width="45" height="45"/>
@@ -17,6 +18,7 @@
 <img src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="Git" width="45" height="45"/>
 <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Expo" width="45" height="45" background-color:white; />
 </p>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilted-One&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
