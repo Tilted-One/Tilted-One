@@ -16,7 +16,7 @@
 <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next.js" width="45" height="45" style="color: inherit;"/>
 <img src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="Git" width="45" height="45"/>
 <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Expo" width="45" height="45" background-color:white; />
-  <img data-v-4cb06668="" class="app-preview__image-origin" srcset="https://img.icons8.com/?size=256&amp;id=gwR0hbBi5JeZ&amp;format=png 1x, https://img.icons8.com/?size=512&amp;id=gwR0hbBi5JeZ&amp;format=png 2x" width="256" height="256" alt="Next.js icon" style="filter: invert(91%) sepia(7%) saturate(15%) hue-rotate(332deg) brightness(107%) contrast(104%);">
+  <img src="https://img.icons8.com/?size=512&id=gwR0hbBi5JeZ&format=png" width="45" height="45" alt="Next.js" style="filter: invert(91%) sepia(7%) saturate(15%) hue-rotate(332deg) brightness(107%) contrast(104%);">
 </p>
 
 # 📊 GitHub Stats:
