@@ -14,11 +14,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="TypeScript" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
 <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next.js" width="45" height="45"/>
-<svg role="img" viewBox="0 0 24 24" width="45" height="45" xmlns="http://www.w3.org/2000/svg">
-    <path d="M18.665 21.978C16.758 23.255 14.465 24 12 24 5.377 24 0 18.623 0 12S5.377 0 
-             12 0s12 5.377 12 12c0 3.583-1.574 6.801-4.067 9.001L9.219 7.2H7.2v9.596h1.615V9.251l9.85 
-             12.727Zm-3.332-8.533 1.6 2.061V7.2h-1.6v6.245Z" fill="white"/>
-  </svg>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/nextjs.png" alt="Next.js" width="45" height="45" />
 <img src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="Git" width="45" height="45"/>
 <img src="https://simpleicons.org/icons/expo.svg" alt="Expo" width="45" height="45" />
 </p>
