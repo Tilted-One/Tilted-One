@@ -13,11 +13,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="TypeScript" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-<div style="display:inline-block; width:45px; height:45px; background-color:#1e1e1e; border-radius:8px; padding:5px;">
+<div style="width:45px; height:45px; background-color:#1e1e1e; border-radius:8px; padding:5px; background-color:'#FFFFFF">
   <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next.js" width="35" height="35" />
 </div>
 <img src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="Git" width="45" height="45"/>
-<div style="display:inline-block; width:45px; height:45px; background-color:#1e1e1e; border-radius:8px; padding:5px;">
+<div style="background-color:white; width:45px; height:45px; background-color:#1e1e1e; border-radius:8px; padding:5px;">
 <img src="https://simpleicons.org/icons/expo.svg" alt="Expo" width="45" height="45" />
 </div>
 </p>
