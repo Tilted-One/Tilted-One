@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="45" height="45"/>
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="TailwindCSS" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="45" height="45"/>
-> <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" style="background-color:#3178C6" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="TypeScript" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
 <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next.js" width="45" height="45"/>
 <img src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="Git" width="45" height="45"/>
