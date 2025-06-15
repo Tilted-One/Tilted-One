@@ -3,7 +3,7 @@
 <br>🛠️ I’m currently working on:<br>- A personal mobile app using **React Native Expo**.<br><br>🌱 I’m currently learning:<br>- **Angular** and **Node.js**<br><br>💬 Ask me about:<br>- React, Next.js, Tailwind, or building mobile apps with React Native Expo<br><br>⚡ Fun fact:<br>- I originally studied Civil Engineering but found my passion in web development 🚀<br>
 
 
-#🚀 &nbsp;Some Tools I Have Used and Learned
+# 🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://camo.githubusercontent.com/e39dd3b8f4afd6976f4978888b37cdaf52b825afb08eb36c99d92e2e63562553/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" alt="figma" width="45" height="45"/>
