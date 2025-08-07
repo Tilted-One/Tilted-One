@@ -31,6 +31,8 @@
   &nbsp;&nbsp;
   <img src="icons/express.js-logo.svg" alt="Express.js" width="45" height="45" />
   &nbsp;&nbsp;
+  <img src="icons/mongodb-svgrepo-com.svg" alt="MongoDb" width="45" height="45" />
+  &nbsp;&nbsp;
   <img src="icons/git.svg" alt="Git" width="45" height="45" />
   &nbsp;&nbsp;
   <img src="icons/github-142-svgrepo-com.svg" alt="GitHub" width="45" height="45" />
