@@ -17,7 +17,7 @@
   <img src="icons/typescript-icon-svgrepo-com.svg" alt="TypeScript" width="45" height="45" />
   <img src="icons/react-original-wordmark.svg" alt="React" width="45" height="45" />
   <img src="icons/nextjs-icon-dark-background.svg" alt="Next.js" width="45" height="45" />
-  <img src="icons/Expo.svg" alt="Expo" width="45" height="45" style="filter: invert(0.8);"/>
+  <img src="icons/Expo.svg" alt="Expo" width="45" height="45"/>
   <img src="icons/nodejs.svg" alt="Node.js" width="45" height="45" />
   <img src="icons/express.js-logo.svg" alt="Express.js" width="45" height="45" style="filter: invert(1);"/>
   <img src="icons/git.svg" alt="Git" width="45" height="45" />
