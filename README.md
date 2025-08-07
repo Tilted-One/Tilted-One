@@ -1,6 +1,9 @@
 ## Hi there 👋
 # 💫 About Me:
-<br>🛠️ I’m currently working on:<br>- A personal mobile app using **React Native Expo**.<br><br>🌱 I’m currently learning:<br>- **Angular** and **Node.js**<br><br>💬 Ask me about:<br>- React, Next.js, Tailwind, or building mobile apps with React Native Expo<br><br>⚡ Fun fact:<br>- I originally studied Civil Engineering but found my passion in web development 🚀<br>
+<br>🛠️ I’m currently working on:<br>- A personal mobile app using **React Native Expo**.<br>
+<!-- <br>🌱 I’m currently learning:<br>- **Angular** and **Node.js**<br> -->
+<br>💬 Ask me about:<br>- React, Next.js, Tailwind, or building mobile apps with React Native Expo<br>
+<br>⚡ Fun fact:<br>- I originally studied Civil Engineering but found my passion in web development 🚀<br>
 
 # 🚀 &nbsp;Some Tools I Have Used and Learned
 
