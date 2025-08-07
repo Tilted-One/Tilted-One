@@ -8,7 +8,6 @@
 
 <p align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="icons/vscode-original.svg" alt="VSCode" width="45" height="45" />
-  <img src="icons/icons8-cursor-ai.svg" alt="Cursor" width="45" height="45"/>
   <img src="icons/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667.svg" alt="Figma" width="45" height="45" />
   <img src="icons/html.svg" alt="HTML" width="45" height="45"/>
   <img src="icons/css.svg" alt="CSS" width="45" height="45"/>
