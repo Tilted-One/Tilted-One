@@ -1,16 +1,30 @@
 ## Hi there 👋
+# 💫 About Me:
+<br>🛠️ I’m currently working on:<br>- A personal mobile app using **React Native Expo**.<br><br>🌱 I’m currently learning:<br>- **Angular** and **Node.js**<br><br>💬 Ask me about:<br>- React, Next.js, Tailwind, or building mobile apps with React Native Expo<br><br>⚡ Fun fact:<br>- I originally studied Civil Engineering but found my passion in web development 🚀<br>
 
-<!--
-**Tilted-One/Tilted-One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 &nbsp;Some Tools I Have Used and Learned
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="icons/vscode-original.svg" alt="VSCode" width="45" height="45" />
+  <img src="icons/icons8-cursor-ai.svg" alt="Cursor" width="45" height="45" style="filter: invert(0.8);"/>
+  <img src="icons/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667.svg" alt="Figma" width="45" height="45" />
+  <img src="icons/html.svg" alt="HTML" width="45" height="45"/>
+  <img src="icons/css.svg" alt="CSS" width="45" height="45"/>
+  <img src="icons/tailwindcss-mark.d52e9897.svg" alt="TailwindCSS" width="45" height="45"/>
+  <img src="icons/javascript-original.svg" alt="JS" width="45" height="45" />
+  <img src="icons/typescript-icon-svgrepo-com.svg" alt="TypeScript" width="45" height="45" />
+  <img src="icons/react-original-wordmark.svg" alt="React" width="45" height="45" />
+  <img src="icons/nextjs-icon-dark-background.svg" alt="Next.js" width="45" height="45" />
+  <img src="icons/Expo.svg" alt="Expo" width="45" height="45" style="filter: invert(0.8);"/>
+  <img src="icons/nodejs.svg" alt="Node.js" width="45" height="45" />
+  <img src="icons/express.js-logo.svg" alt="Express.js" width="45" height="45" style="filter: invert(1);"/>
+  <img src="icons/git.svg" alt="Git" width="45" height="45" />
+  <img src="icons/github-142-svgrepo-com.svg" alt="GitHub" width="45" height="45" style="filter: invert(1);"/>
+  <img src="icons/ubuntu-svgrepo-com.svg" alt="Ubuntu" width="45" height="45"/>
+</p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilted-One&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
